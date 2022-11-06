@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/db_dba/db_dba.iml" filepath="$PROJECT_DIR$/db_dba/db_dba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/projectNostalgiaInTheBible.iml" filepath="$PROJECT_DIR$/.idea/projectNostalgiaInTheBible.iml" />
+      <module fileurl="file://$PROJECT_DIR$/view_search_scroll.iml" filepath="$PROJECT_DIR$/view_search_scroll.iml" />
+    </modules>
+  </component>
+</project>
